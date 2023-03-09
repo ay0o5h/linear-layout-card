@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Card-linear-layout</string>
+    <string name="name">Ahmed hassan</string>
+    <string name="job">Engineer</string>
+    <string name="address">UK</string>
+    <string name="reviews">(150 Reviews)</string>
+    <string name="rate">4.5</string>
+
+    <string name="country">Russian</string>
+    <string name="days_ago">5 Days ago</string>
+    <string name="time_ago">3 hr</string>
+
+
+
+</resources>
